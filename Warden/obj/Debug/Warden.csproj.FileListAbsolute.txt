@@ -1,0 +1,5 @@
+c:\projects\warden\Warden\bin\Debug\Warden.dll
+c:\projects\warden\Warden\bin\Debug\Warden.pdb
+c:\projects\warden\Warden\obj\Debug\Warden.csprojResolveAssemblyReference.cache
+c:\projects\warden\Warden\obj\Debug\Warden.dll
+c:\projects\warden\Warden\obj\Debug\Warden.pdb
